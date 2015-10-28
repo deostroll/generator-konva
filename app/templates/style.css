@@ -1,0 +1,10 @@
+body {
+  font-family: Arial, sans-serif, monospace;
+  font-size: 10pt;
+  background-color: #C2C2C2;
+}
+
+.content {
+  margin: auto;
+  width: 95%;
+}

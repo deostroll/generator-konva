@@ -1,0 +1,29 @@
+{
+  "name": "generator-konva",
+  "version": "1.0.0",
+  "description": "a generator for scaffolding konva js kickstarter projects",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "files": [
+    "app"
+  ],
+  "author": "deostroll",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^0.21.1"
+  },
+  "main": "app/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deostroll/generator-konva.git"
+  },
+  "bugs": {
+    "url": "https://github.com/deostroll/generator-konva.git/issues"
+  },
+  "homepage": "https://github.com/deostroll/generator-konva.git#readme"
+}

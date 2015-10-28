@@ -1,0 +1,18 @@
+{
+  "name": "<%= projName %>",
+  "version": "0.0.0",
+  "keywords": [
+    "konvajs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "konva": "~0.9.5"
+  }
+}
